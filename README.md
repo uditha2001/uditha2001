@@ -13,12 +13,7 @@
 - 🌐 Working on **EMS** and exploring **Web Application Development**  
 - 🚀 Open to collaborating on interesting projects  
 
----
 
-### 🏆 GitHub Profile Trophy  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Uditha2001&theme=onedark&column=4&margin-w=15&margin-h=15"/>
-</p>
 
 ---
 
@@ -29,13 +24,19 @@
 
 ---
 
+
 ### 🔥 GitHub Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uditha2001&theme=radical"/>
 </p>
 
 ---
+### 🏆 GitHub Profile Trophy  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Uditha2001&theme=onedark&column=4&margin-w=15&margin-h=15"/>
+</p>
 
+---
 ### 🚀 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uditha2001&layout=compact&langs_count=8&theme=radical"/>
