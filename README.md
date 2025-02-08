@@ -10,7 +10,7 @@
 - 💻 Java Developer | React Developer 
 - 🎓 Computer Science Undergraduate at **University of Ruhuna**  
 - 🔥 Passionate about **Machine Learning, Cloud Computing, and Cybersecurity**  
-- 🌐 Working on **EMS** and exploring **Web Application Development**  
+- 🌐 Currentlt working on **EMS** project
 - 🚀 Open to collaborating on interesting projects  
 
 
