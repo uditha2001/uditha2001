@@ -17,7 +17,7 @@
 
 ### 🏆 GitHub Profile Trophy  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UdithaImesh&theme=onedark&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Uditha2001&theme=onedark&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
