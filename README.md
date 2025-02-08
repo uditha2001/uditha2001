@@ -44,18 +44,21 @@
 ---
 
 ### 📌 Top Repositories  
-<p align="center">
-   <a href="https://github.com/uditha2001/EMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uditha2001&repo=EMS&theme=radical" />
-  </a>
- <a href="https://github.com/uditha2001/Hackmana_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uditha2001&repo=Hackmana EDMS&theme=radical" />
-  </a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/uditha2001/EMS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uditha2001&repo=EMS&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/uditha2001/Hackmana_Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uditha2001&repo=Hackmana_Project&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/UdithaImesh/ApeBodima">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uditha2001&repo=ApeBodima&theme=radical" />
-  </a>
-</p>
 
 ---
 
