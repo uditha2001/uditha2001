@@ -13,9 +13,11 @@
 - 🌐 Currently working on **EMS** project
 - 🚀 Open to collaborating on interesting projects  
 
-
-
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uditha2001&show_icons=true&theme=radical"/>
+</p>
+why this not get private repo
 
 ---
 ### 🏆 GitHub Profile Trophy  
