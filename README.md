@@ -7,10 +7,10 @@
 ---
 
 ### About Me  
-- 💻 Java Developer | React Developer 
+- 💻 Computer science enthusiast
 - 🎓 Computer Science Undergraduate at **University of Ruhuna**  
 - 🔥 Passionate about **Machine Learning, Cloud Computing, and Cybersecurity**  
-- 🌐 Currently working on **EMS** project
+- 🌐 Currently working as an intern at Creative Software.
 - 🚀 Open to collaborating on interesting projects  
 
 
