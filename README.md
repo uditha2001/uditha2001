@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Uditha Imesh 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=.NET+Developer;Azure+Cloud+Learner;DevOps+Enthusiast;Java+Developer;React+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=.NET+Developer;Cloud+Learner;DevOps+Enthusiast;Java+Developer;React+Developer" />
 </p>
 
 ---
